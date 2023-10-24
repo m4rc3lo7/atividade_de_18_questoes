@@ -1,0 +1,4 @@
+p=float(input('digite o peso da pesca em kg :'))
+e= p-50
+m= e*4
+print("esse foi todo o exesso da pesca",e,"e se vc nao pagar meu amigo essa vai ser a sua muta :",m,'RS')
