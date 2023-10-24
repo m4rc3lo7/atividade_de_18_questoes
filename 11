@@ -1,0 +1,7 @@
+n=int(input('digite um numero inteiro :'))
+n1=int(input('digite outro numero inteiro :'))
+n2=float(input('digite um numero real:'))
+n3=( n*2)*(n1/2)
+n4=(n*3)+n2
+n5=n2**3
+print("esse será o seu  resultado :",n3,'em seguida o resultado com o 2º valor',n4,'e por ultimo , o ultimo valor:',n5)
