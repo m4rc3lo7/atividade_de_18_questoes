@@ -1,0 +1,3 @@
+a=float(input('digite sua altura em M:'))
+p=int(72.7*a)-58
+r=print('esse é o seu peso:',p,'kg')
