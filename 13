@@ -1,0 +1,5 @@
+n=float(input('meu nobre qual é sua altura?:'))
+ph=(72.7*n)-58
+pm=(62.1*n)-44.7
+ph1=print('esse é o seu peso macho:',ph,'kg')
+pm1=print('esse é o seu peso muié :',pm,'kg')
